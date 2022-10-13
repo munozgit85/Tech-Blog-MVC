@@ -52,7 +52,7 @@ router.get("/:id", (req, res) => {
 });
 
 router.post("/", (req, res) => {
-  //used for the sign up input
+  //input for  sign up
   User.create({
     username: req.body.username,
     email: req.body.email,
