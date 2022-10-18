@@ -1,6 +1,8 @@
 {{> post-info post}}
 
 {{#if loggedIn}}
+<div class="card">
+    <h3 class="card-header"></h3>
 <form class="comment-form">
   <div>
     <textarea name="comment-body"></textarea>
@@ -10,7 +12,7 @@
     <button type="submit">add comment</button>
   </div>
 </form>
-
+</div>
 {{> comments post.comments}}
 
 {{else}}

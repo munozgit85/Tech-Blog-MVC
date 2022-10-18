@@ -10,13 +10,14 @@
   <body>
     <div class="wrapper">
       <header>
+
         <nav>
           {{#if loggedIn}}
             <a href="/dashboard">Dashboard</a>
             <a href="/login">Homepage</a>
             <a id="logout" class="btn-no-style">Logout</a>
           {{else}}
-            <a href="/login">Login</a>
+            <a href="/login">Homepage to Login or Signup</a>
           {{/if}}
         </nav>
         <h1>
@@ -24,6 +25,7 @@
         </h1>
       </header>
       <main>
+        <h1 class="mainhead"> Blog Contents</h1>
         {{{body}}}
       </main>
       <footer>
