@@ -92,4 +92,4 @@ THEN I am able to view comments but I am prompted to log in again before I can a
   For further Questions About This Application , Please Feel Free To Use The Contact Below:
 
   > Email: Racquelg85@hotmail.com
-  > GitHub : [Racquel](https://github.com/munozgit85/just-tech-news.git)
+  > GitHub : [Racquel](https://github.com/munozgit85/Tech-Blog-MVC.git)

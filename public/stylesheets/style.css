@@ -6,20 +6,20 @@ body,
 html {
   height: 100%;
   padding: 0;
-  margin: 0;
+  margin-bottom: -60%;
   font-family: sans-serif;
   color: #333;
 }
 
 a {
   text-decoration: none;
-  color: brown;
+  color: blue;
   font-weight: bold;
   transition: color 0.1s;
 }
 
 a:hover {
-  color: brown;
+  color: gray;
 }
 
 button {
@@ -34,7 +34,7 @@ button {
 }
 
 button:hover {
-  background-color: brown;
+  background-color: gray;
 }
 
 .post-list {
@@ -69,10 +69,6 @@ button:hover {
 }
 
 body {
-  font-family: "Quicksand", sans-serif;
-  display: grid;
-  place-items: center;
-  height: 400vh;
   background: #b7b7e3;
   background: linear-gradient(to right, #91eae4, #86a8e7, #7f7fd5);
 }
@@ -194,13 +190,24 @@ header {
 }
 
 header h1 {
-  font-size: 3em;
-  margin-right: 40%;
+  font-size: 3.5em;
+  margin-right: 20%;
+}
+
+header nav {
+  padding: 10px 15px;
+  font-weight: lighter;
+  font-size: 1.55vw;
+  text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+header nav a:hover {
+  background: #56ccf2;
+  text-shadow: none;
 }
 
 main {
   flex: 1;
-  padding: 2% 4%;
 }
 
 .btn-no-style {
@@ -209,7 +216,7 @@ main {
   padding: 0;
   cursor: pointer;
   text-decoration: none;
-  color: brown;
+  color: blue;
   font-size: 100%;
   font-weight: bold;
   transition: color 0.1s;
@@ -262,7 +269,8 @@ card-content {
 }
 
 .comment:nth-child(odd) {
-  background-color: #fff5eb;
+  background-color: thistle;
+  border: #333;
 }
 
 .comment .meta {
