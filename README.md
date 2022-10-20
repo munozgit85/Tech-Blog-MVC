@@ -46,6 +46,7 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 - [License](#license)
 - [Contributing](#Contributing)
 - [Tests](#Tests)
+- [Github/URL](#Github)
 - [Questions](#Questions)
 
 ---
@@ -74,10 +75,10 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 - Finally, connect to the server and run npm start.
 
   ## Screenshot
+
   <img width="1403" alt="tech screenshort" src="https://user-images.githubusercontent.com/107218022/196593323-4f77c728-7473-42de-abb8-6af46747529f.png">
 
   <img width="1348" alt="2nd screen shot" src="https://user-images.githubusercontent.com/107218022/196593430-500fe4c9-737f-4897-b5b1-f6c3fdd8236d.png">
-
 
   ## License
 
@@ -91,9 +92,15 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
   none
 
-  ## Questions
+## Github
 
-  For further Questions About This Application , Please Feel Free To Use The Contact Below:
+https://github.com/munozgit85/Tech-Blog-MVC.git
+https://afternoon-woodland-47600.herokuapp.com
+https://munozgit85.github.io/Tech-Blog-MVC/
 
-  > Email: Racquelg85@hotmail.com
-  > GitHub : [Racquel](https://github.com/munozgit85/Tech-Blog-MVC.git)
+## Questions
+
+For further Questions About This Application , Please Feel Free To Use The Contact Below:
+
+> Email: Racquelg85@hotmail.com
+> GitHub : [Racquel](https://github.com/munozgit85/Tech-Blog-MVC.git)
